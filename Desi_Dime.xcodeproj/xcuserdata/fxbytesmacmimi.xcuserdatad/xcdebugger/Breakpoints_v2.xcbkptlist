@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desi_Dime/ViewController.swift"
+            timestampString = "520262566.049558"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "callGetAPI_Top()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desi_Dime/Utility/SingletonClass.swift"
+            timestampString = "520253497.550204"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "performOperationWithGet(urlString:withSuccess:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Desi_Dime.SingletonClass.(performOperationWithGet (urlString : Swift.String, withSuccess : (__ObjC.NSDictionary, Swift.Bool) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Desi_Dime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fxbytesmacmimi/Desktop/jeet/Desi_Dime/Desi_Dime/Utility/SingletonClass.swift"
+                  timestampString = "520253521.148339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1210">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Desi_Dime.SingletonClass.(performOperationWithGet (urlString : Swift.String, withSuccess : (__ObjC.NSDictionary, Swift.Bool) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Desi_Dime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fxbytesmacmimi/Desktop/jeet/Desi_Dime/Desi_Dime/Utility/SingletonClass.swift"
+                  timestampString = "520253521.151134"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
